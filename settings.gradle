@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AdvanceCode"
 include ':app'
+include ':anr_watch_dog'
