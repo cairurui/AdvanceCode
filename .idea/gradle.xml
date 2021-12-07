@@ -9,7 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/anr_watch_dog" />
+            <option value="$PROJECT_DIR$/01_anr_watch_dog" />
+            <option value="$PROJECT_DIR$/02_slow_frame_detect" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

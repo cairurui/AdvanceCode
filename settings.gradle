@@ -8,4 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AdvanceCode"
 include ':app'
-include ':anr_watch_dog'
+include ':01_anr_watch_dog'
+include ':02_slow_frame_detect'
